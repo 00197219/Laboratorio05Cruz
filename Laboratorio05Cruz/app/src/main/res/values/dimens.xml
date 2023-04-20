@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="backgroundLayout">358dp</dimen>
+    <dimen name="cardView">288dp</dimen>
+    <dimen name="small_card_heith">156dp</dimen>
+    <dimen name="calification">15dp</dimen>
+    <dimen name="button">28dp</dimen>
+</resources>
